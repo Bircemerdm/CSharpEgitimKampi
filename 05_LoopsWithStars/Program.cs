@@ -147,7 +147,6 @@ namespace _05_LoopsWithStars
                 }
                 Console.WriteLine();
             }
-
             #endregion
             Console.Read();
         }
